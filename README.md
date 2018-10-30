@@ -1,6 +1,4 @@
-# testx
-
-> y
+# Testing App with VueJS
 
 ## Build Setup
 
